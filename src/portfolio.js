@@ -1,19 +1,22 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  // homepage: 'https://rajshekhar26.github.io/cleanfolio',
+  homepage: 'https://github.com/rashedsarder13',
+  title: 'RS',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
+  name: 'Rashed Sarder',
   role: 'Front End Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    `Innovative software engineer offering two years of experience in the full software architect and development lifecycle – from concept through delivery of next-generation applications and customizable solutions.
+    Expert in advanced development methodologies, tools and processes contributing to the design and rollout of cutting-edge software applications.
+    Known for excellent troubleshooting skills – able to analyze code and engineer well-researched, cost-effective and responsive solutions.`,
   resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/rashed-sarder13/',
+    github: 'https://github.com/rashedsarder13',
   },
 }
 
@@ -65,7 +68,7 @@ const skills = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'rashedsarder13@gmail.com',
 }
 
 export { header, about, projects, skills, contact }

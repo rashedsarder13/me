@@ -15,7 +15,7 @@ const About = () => {
       )}
 
       {role && <h2 className='about__role'>A {role}.</h2>}
-      <p className='about__desc'>{description && description}</p>
+      <p className='about__desc' style={{ textAlign: 'justify' }}>{description && description}</p>
 
       <div className='about__contact center'>
         {resume && (
