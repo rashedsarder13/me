@@ -11,7 +11,7 @@
 ### Setup
 
 ```shell
-git clone https://rashedsarder13.github.io/my-portfolio
+git clone https://rashedsarder13.github.io
 cd my-portfolio
 ```
 
@@ -48,7 +48,7 @@ yarn start
 
 - Go to `package.json` file and replace -
 
-`"homepage": "https://rashedsarder13.github.io/my-portfolio"`
+`"homepage": "https://rashedsarder13.github.io"`
 
 with `"homepage": "https://yourusername.github.io"`.
 
