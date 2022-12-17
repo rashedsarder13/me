@@ -1,6 +1,6 @@
-# Cleanfolio
+# Portfolio
 
-## Preview
+<!-- ## Preview -->
 
 <!-- [![Imgur](https://imgur.com/FwDMNEM.gif)](https://rajshekhar26.github.io/cleanfolio) -->
 
@@ -10,10 +10,10 @@
 
 ### Setup
 
-<!-- ```shell
-git clone https://github.com/rajshekhar26/cleanfolio
-cd cleanfolio
-``` -->
+```shell
+git clone https://rashedsarder13.github.io/my-portfolio
+cd my-portfolio
+```
 
 If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm) (optional) -
 
@@ -48,7 +48,7 @@ yarn start
 
 - Go to `package.json` file and replace -
 
-`"homepage": "https://rajshekhar26.github.io/cleanfolio"`
+`"homepage": "https://rashedsarder13.github.io/my-portfolio"`
 
 with `"homepage": "https://yourusername.github.io"`.
 
