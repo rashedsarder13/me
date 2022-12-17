@@ -13,7 +13,7 @@ const about = {
     `Innovative software engineer offering two years of experience in the full software architect and development lifecycle – from concept through delivery of next-generation applications and customizable solutions.
     Expert in advanced development methodologies, tools and processes contributing to the design and rollout of cutting-edge software applications.
     Known for excellent troubleshooting skills – able to analyze code and engineer well-researched, cost-effective and responsive solutions.`,
-  resume: "https://drive.google.com/file/d/1A9HDLEzCYlrnbr2ETVUd03T9wuaJ-_G-/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1CM8cMHLNyblBo9IkynXtxSJXCeFIil6x/view?usp=sharing",
   social: {
     linkedin: 'https://www.linkedin.com/in/rashed-sarder13/',
     github: 'https://github.com/rashedsarder13',
