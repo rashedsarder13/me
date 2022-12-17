@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   // homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  homepage: 'https://rashedsarder13.github.io',
+  homepage: 'https://rashedsarder13.github.io/me',
   title: 'RS',
 }
 
@@ -58,12 +58,12 @@ const skills = [
   'TypeScript',
   'React',
   'Redux',
-  'SASS',
+  'NextJs',
   'Material UI',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'C#',
+  'GraphQL',
+  'Web API',
 ]
 
 const contact = {

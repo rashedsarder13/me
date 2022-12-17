@@ -6,7 +6,7 @@ const Footer = () => (
       href='https://github.com/rashedsarder13'
       className='link footer__link'
     >
-      Feel free to contact me for any technical discussion.
+      © 2021-2022 Rashed Sarder
     </a>
   </footer>
 )
