@@ -42,8 +42,8 @@ const projects = [
   {
     name: 'Project 3',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'This is an Ecommerce Website',
+    stack: ['TypeScript', 'React', 'GraphQL', 'NodeJs'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
