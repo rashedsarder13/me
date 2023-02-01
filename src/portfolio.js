@@ -24,25 +24,25 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Netflix Clone',
     description:
-      'This project is a React based project.',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'This project is based on React',
+    stack: ['React', 'Redux-Toolkit', 'NodeJs', 'MongoDB', 'React Hook', 'CSS Styling'],
+    sourceCode: 'https://github.com/rashedsarder13/Netflix-Clone-with-React-Redux-Toolkit-Nodejs-MongoDB',
+    livePreview: 'https://netflixtubee.netlify.app',
   },
   {
-    name: 'Project 2',
+    name: 'Advice',
     description:
-      'This project based on Redux',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'This is mini fun project',
+    stack: ['React', 'CSS', 'API'],
+    sourceCode: 'https://github.com/rashedsarder13/advice',
+    livePreview: 'https://onlyadvice.netlify.app/',
   },
   {
     name: 'Project 3',
     description:
-      'This is an Ecommerce Website',
+      'Incomplete...',
     stack: ['TypeScript', 'React', 'GraphQL', 'NodeJs'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
